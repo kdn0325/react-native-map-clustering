@@ -37,5 +37,8 @@
   "directories": {
     "example": "example",
     "lib": "lib"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
   }
 }
